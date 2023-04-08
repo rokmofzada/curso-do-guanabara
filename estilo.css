@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+section{
+    background-color: rgba(183, 0, 255, 0.884);
+    height: 400px;
+   padding: 5px;
+   width: 500px;
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 14px 2px 20px 17px black;
+}
